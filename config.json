@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "databasecelete",
+        "uuid": 15806238,
+        "checksum": "jriotb"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
